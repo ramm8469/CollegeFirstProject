@@ -1,0 +1,511 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+/* Header Styling Starts */
+nav
+{
+width: 100%;
+height: 115px;
+background-color: #1e1e1e;
+}
+
+
+nav img
+{
+	width: 192px;
+	height: 115px;	
+	margin-left: 10px;
+	margin-right: -1174px;
+	margin-top: -40px;
+}
+
+body
+{
+ background-color: #FF6E40;
+}
+
+ul
+{
+margin-left: 1000px;
+margin-bottom: -100px;
+
+
+}
+
+ul li
+{
+	display: block;
+	display: inline-block;
+	list-style: none;
+	padding:20px;
+	line-height: 100px;
+
+
+}
+
+ul li a
+{
+ display: block;
+ text-decoration: none;
+ color: #fff;
+ 
+}
+
+ul li a:hover
+{
+
+ color:#00E676;
+
+}
+
+nav p
+{
+	font-family: aerial;
+	color: red;
+	font-size: 22px;
+	font-variant-position: center;
+	margin-top: -75px;
+	margin-left: 300px;
+}
+/* Header Styling Ends */
+
+
+/* Login  Styling Starts*/
+
+.login-module
+{
+	width: 1366px;
+	height: 150px;
+	background-color: #eee;
+	margin-top:0px;
+}
+.signup-module
+{
+	margin-left:0px;
+	width: 1366px;/*#D81B60*/
+	height: 600px;
+	background-color:#ddd;
+	margin-top:0px;
+}
+.login-module form
+{
+	margin-left: 400px;
+
+
+}
+.login-module form legend
+{
+	margin-left: 200px;
+	margin-top: -60px;
+	padding: 20px;
+	font-family: aerial;
+	margin-bottom: -60px;
+}
+.login-module form input
+{
+	margin-top: 10px;
+	padding: 0 30px;
+	width: 500px;
+	height: 30px;
+	background-color:#DCE775;
+	text-align: center;
+	border-radius: 20px;
+	border-color: #BBDEFB
+	font-size:20px;
+
+}
+
+.login-module form input:hover
+{
+	background-color: #fff;
+}
+
+.input
+{
+text-align: center;
+font-size: 20px;
+}
+
+.button
+{	
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	padding:0 40px;
+	margin-left: 40px;
+	border-radius: 20px;
+}
+
+.button:hover
+{
+	background-color: lightblue;
+	width: 200px;
+
+}
+
+.legend-text
+{
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	color:#1e1e1e;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+/* Login Styling Ends*/
+
+/*-----------------------------------------------------*/
+
+/*  Signup Styling Starts*/
+
+
+.signup-legend
+{
+margin-left:-40px;
+}
+
+.signup-legend-text
+{
+text-align: center;
+font-family: 'Indie Flower', cursive;
+font-size: 50px;
+color: #1e1e1e;
+}
+
+.signup-module input
+{
+	margin-left: 190px;
+	display: inline-block;
+	float: left;
+	width:1000px;
+	height: 30px;
+	text-align: center;
+	border-radius:20px;
+	background-color:#1DE9B6;
+	font-size: 20px;
+}
+
+.signup-module input:hover
+{
+	background-color: #fff;
+}
+
+.signup-btn-text
+{
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+
+}
+.signup-button
+{
+	margin-left: 610px;
+
+}
+.signup-button:hover
+{
+	background-color: lightblue;
+	border-radius: 20px;
+	width: 200px;
+
+}
+
+/*  Signup Styling Ends*/
+
+/*---------------------------------------------------*/
+
+.img-marquee{
+	width: 1366px;
+	height: 200px;
+
+}
+
+.img-marquee img {
+width: 300px;
+height: 200px;
+}
+
+
+/*ABOUT Page styling...Starts*/
+
+.welcome
+{
+	width: 1366px;
+	height: 100px;
+	background-color: #9e9e9e;
+}
+
+.welcome h2
+{
+	text-align: center;
+	line-height: 100px;
+	color:#fff;
+	font-size: 60px;
+	font-family: 'Press Start 2P', cursive;
+
+}
+.welcome h2:hover
+{
+	color: #FFFF00;
+}
+
+.desc_img_1
+{
+	width: 1366px;
+	height: 400px;
+	background-color: #efefef;
+}
+
+.content1-img
+{
+	width: 600px;
+	height: 200px;
+
+}
+.content1-img img
+{
+	width: 100%;
+	float: left;
+	border-radius: 20px;
+	
+}
+
+.content1-text
+{
+	width: 750px;
+	margin-top: -170px;
+	float: right;
+	margin-left: -60px;
+	font-size: 26px;
+	line-height: 100%;
+	font-family: 'Lobster', cursive;
+	color: #757575;
+	background-color: #fff;
+	font-weight: 100px;
+	border-radius: 40px;
+	text-align: center;
+}
+
+.content1-text :hover
+{
+	background-color:#FFF176;
+}
+
+.content1-text a
+{
+	text-decoration: none;
+}
+.desc_img_2
+{
+	width: 1366px;
+	height: 400px;
+	background-color: #cfcfcf;
+}
+
+.content2_img
+{
+	width: 600px;
+	height: 200px;
+}
+
+.content2-img 
+{
+	width: 1366px;
+	width: 500px;	
+}
+
+.content2-img img
+{
+	width: 1365px;
+	height: 200px;
+	border-radius: 5px;
+}
+
+.desc_img_2 h2
+{
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	color: 	#009688;
+	font-size: 30px;	
+}
+
+.img1
+{
+	width: 50px;
+	height: 40px;
+}
+.img1 img  
+{
+	border-radius: 20px;
+	margin-left: 10px;
+	float: left;
+	
+	
+}
+
+.img1 p
+{
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+	margin-left: 20px;
+	float: left;
+	background-color: #fff;
+	border-radius: 20px;
+}
+
+.img2
+{
+	width: 50px;
+	height: 40px;
+	margin-left: 220px;
+	margin-top: -40px;
+}
+.img2 img  
+{
+	border-radius: 20px;
+	margin-left: 10px;	
+}
+
+.img2 p
+{
+	font-family: 'Lobster', cursive;
+	font-size: 37px;
+	margin-left: 30px;
+	float: left;
+	background-color: #fff;
+	border-radius: 20px;
+}
+
+
+
+.img3
+{
+	width: 50px;
+	height: 40px;
+	margin-left: 480px;
+	margin-top: -40px;
+}
+.img3 img  
+{
+	border-radius: 20px;
+	margin-left: -30px;	
+}
+
+.img3 p
+{
+	font-family: 'Lobster', cursive;
+	font-size: 37px;
+	margin-left: 0px;
+	float: left;
+	background-color: #fff;
+	border-radius: 20px;
+}
+
+
+.img4
+{
+	width: 50px;
+	height: 40px;
+	margin-left: 730px;
+	margin-top: -40px;
+}
+.img4 img  
+{
+	border-radius: 20px;
+	margin-left: -60px;	
+}
+
+.img4 p
+{
+	font-family: 'Lobster', cursive;
+	font-size: 27px;
+	margin-left: 0px;
+	float: left;
+	background-color: #fff;
+	border-radius: 20px;
+}
+
+
+.img5
+{
+	width: 50px;
+	height: 40px;
+	margin-left: 980px;
+	margin-top: -40px;
+}
+.img5 img  
+{
+	border-radius: 20px;
+	margin-left: -40px;	
+}
+
+.img5 p
+{
+	font-family: 'Lobster', cursive;
+	font-size: 37px;
+	margin-left: -10px;
+	float: left;
+	background-color: #fff;
+	border-radius: 20px;
+}
+
+
+.img6
+{
+	width: 70px;
+	height: 40px;
+	margin-left: 1230px;
+	margin-top: -40px;
+}
+.img6 img  
+{
+	border-radius: 20px;
+	margin-left: -80px;	
+}
+
+.img6 p
+{
+	font-family: 'Lobster', cursive;
+	font-size: 37px;
+	margin-left: -40px;
+	float: left;
+	background-color: #fff;
+	border-radius: 20px;
+}
+
+.desc_img_2:hover
+{
+	background-color: #18FFFF;
+}
+/*ABOUT Page styling...Ends*/
+
+
+
+
+/* Footer Styling Starts  */
+
+footer
+{
+	width: 100%;
+	height: 130px;
+	margin-top: 0px;
+	background-color: #1e1e1e;
+}
+
+
+footer p
+{
+	
+	color: #fff;
+
+}
+footer a
+{
+	list-style: none;
+	color: #fff;
+	padding: 0 20px;
+	margin-bottom: 40px;
+}
+
+
+/* Footer Styling Ends  */

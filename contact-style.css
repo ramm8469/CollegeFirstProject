@@ -1,0 +1,104 @@
+
+/* CONTACT Page styling.....Starts*/
+.contact-head
+{
+	width: 100%;
+	height: 40px;
+	background-color: #eee;
+	text-align: center;
+	font-family: 'Monoton', cursive;
+		font-weight: 30px;
+	letter-spacing: 40px;
+
+}
+
+.contact-head h1
+{
+	border:2px solid orange;
+	height
+	justify-content: justify;
+	color: #1e1e1e;
+
+}
+.some-text
+{
+	width: 100%;
+	height: 900px;
+	background-color:#eee;
+}
+
+.some-text-text
+{
+	margin-top:15%; 
+	width:50%;
+	height: 500px;
+	float: left;
+	background-color:#B2EBF2;
+	border-radius: 30px;	
+
+}
+.some-text-text img
+{
+	width: 100%;
+	height: 100%;
+	border-radius: 20px;
+}
+
+.contact-form
+{
+	
+	width: 50%;
+	height: 60%;
+	float: left;
+	background-color: #eee;
+}
+
+.table-contact{
+    width: 80%;
+    height: 100%;
+    margin: 28% 10%;
+    padding: 5%;
+    background-color: aqua;
+    border-radius: 30px;
+    border:5px dotted #1e1e1e;
+   font-family: 'Great Vibes', cursive;
+   
+   color: #1e1e1e;
+
+
+}
+.table-contact tr
+{
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.table-contact input
+{
+	margin-top: 20px;
+	width: 100%;
+	height: 40px;
+	border-radius: 10px;
+	font-size: 25px;
+	font-family: 'Special Elite', cursive;
+	color: #FF6D00;
+
+}
+.table-contact textarea
+{
+	margin-top: 30px;
+	width: 100%;
+	height: 90px;
+	border-radius: 10px;
+	font-size: 30px;
+	font-family: 'Special Elite', cursive;
+	color: #311B92;
+}
+.submit-btn :hover
+{
+	background-color: #1e1e1e;
+}
+
+
+
+/* CONTACT Page styling.....Ends*/
